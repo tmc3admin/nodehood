@@ -151,3 +151,4 @@ venv/
 *.log
 *.pid
 *.sock
+.env
